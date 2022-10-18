@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+out/
+
+### VS CODE ###
+.DS_Store
+gitignore/
